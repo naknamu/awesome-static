@@ -1,0 +1,13 @@
+.title {
+    color: blueviolet;
+}
+
+.sub-title {
+    font-style: italic;
+    color: brown;
+}
+
+.content {
+    font-size: 18px;
+    color: green;
+}
